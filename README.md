@@ -31,14 +31,17 @@ A real-time traffic detection and vehicle counting **web application** built usi
   
 ## 📂 Folder Structure
 
+```
 traffic-detection-counter/
-├── data/ # Uploaded or test videos
-├── static/ # Output/result videos with detections
-├── templates/ # HTML templates for the frontend (Jinja2)
-├── main.py # FastAPI app entry point
-├── detect_vehicle.py # Vehicle detection and counting logic
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── data/              # Uploaded or test videos
+├── static/            # Output/result videos with detections
+├── templates/         # HTML templates for the frontend (Jinja2)
+├── main.py            # FastAPI app entry point
+├── detect_vehicle.py  # Vehicle detection and counting logic
+├── requirements.txt   # Project dependencies
+└── README.md          # Project documentation
+```
+
 
 
 ## ▶️ Running the App
